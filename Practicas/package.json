@@ -1,0 +1,14 @@
+{
+"name":"practicados",
+"version":"1.0.0",
+"type":"module",
+"description":"",
+
+"script":{
+    "test":"echo\"Error:no test especified\"&& exit 1"
+
+},
+"keywords":[],
+"author": "",
+"license":"ISC"
+}
